@@ -10,6 +10,6 @@ yarn dev
 ```
 ## Deploy on Vercel
 
-Deploy at the following link:
+Deploy at the following link: https://pokemon-next-dianarut.vercel.app/
 
 
